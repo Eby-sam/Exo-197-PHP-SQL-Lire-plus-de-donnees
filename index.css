@@ -1,5 +1,5 @@
 body{
-    background: #ffe450;
+    background: #ff5064;
     font-family: "Segoe UI", serif;
 }
 
@@ -10,14 +10,13 @@ span{
 }
 
 p{
+    font-size: 1.5rem;
     color: darkgreen;
-    width: 220px;
-    padding-left: 20px;
 }
 
 body{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: flex-start;
     font-size: 12px;
 }
